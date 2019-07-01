@@ -1,0 +1,117 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.ui.inverted.segment {
+    margin: 0;
+    width: 100%;
+}
+
+.ui.segment {
+    border-radius: 0;
+}
+
+.ui.secondary.pointing.inverted.large.menu {
+    width: 75%;
+    margin-left: 12%;
+    margin-bottom: 0;
+    padding-top: 0.55%;
+}
+
+.ui.inverted.button {
+    margin-right: 7px;
+    padding-top: 7%;
+}
+
+.ui.inverted.placeholder.segment {
+    height: 82.1vh;
+}
+
+.ui.huge.center.aligned.header {
+    font-size: 4.7rem;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    margin: 0;
+}
+
+.ui.center.aligned.header {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+#center {
+    height: 94.2vh;
+}
+
+#innerBox {
+    padding-top: 130px;
+    border-bottom: 0;
+}
+
+.h1 {
+    /* font-family: 'Lato', sans-serif;
+    font-weight: 400; */
+    margin-top: 20%;
+}
+
+.h2 {
+    /* font-family: 'Lato', sans-serif; */
+    font-weight: 400;
+}
+
+#checkButton .ui.button {
+    margin-top: 2%;
+    padding: 0.78571429em 1.5em 0.78571429em;
+}
+
+div#bot.eight.wide.column {
+    padding: 70px 50px 70px 50px;
+    text-align: center;
+}
+
+div#bot2.eight.wide.column {
+    padding: 70px 50px 70px 50px;
+    text-align: center;
+}
+
+#bottom.ui.segment {
+    height: 95vh;
+}
+
+div.row.bottom {
+    height: 8vh;
+}
+
+.ui.horizontal.divider {
+    margin-top: 7%;
+    color: #4183c4;
+}
+
+div .ui.center.column.centered.grid .column h1 {
+    margin-top: 10%;
+}
+
+div.column #h3 {
+    font-size: 1.6em;
+}
+
+div.ui.inverted.segment.footer {
+    height: 33.75vh;
+}
+
+div .ui.internally.celled.grid.cell {
+    height: 100%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.container {
+    margin-left: 12%;
+}
